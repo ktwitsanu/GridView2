@@ -1,0 +1,4 @@
+#Thu Dec 27 10:57:28 ICT 2018
+base.0=D\:\\android\\GridView2\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\9
+path.0=classes.dex
+renamed.0=classes.dex
